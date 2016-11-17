@@ -79,7 +79,7 @@
 	</form>
 
 
-	<p>Pizza was invented by a <span class="words"><?php adjective (); ?></span>, <?php nationality (); ?> chef named <?php person (); ?>. To make a pizza, you need to take a lump of <?php noun (); ?>, and make a thin, round <?php adjective (); ?> <?php noun (); ?>. Then you cover it with <?php adjective (); ?> sauce, <?php adjective (); ?> cheese, and fresh chopped <?php pluralnoun (); ?>. Next you have to bake it in a very hot <?php noun (); ?>. When it is done, cut it into <?php number (); ?> <?php shapes (); ?>. Some kids like <?php food (); ?> pizza the best, but my favorite is the <?php food (); ?> pizza. If I could, I would eat pizza <?php number (); ?> times a day!</p>
+	<p>Pizza was invented by a <span class="words"><?php adjective (); ?></span>, <span class="words"><?php nationality (); ?></span>chef named <span class="words"><?php person (); ?></span>. To make a pizza, you need to take a lump of <span class="words"><?php noun (); ?></span>, and make a thin, round <span class="words"><?php adjective (); ?></span> <span class="words"><?php noun (); ?></span>. Then you cover it with <span class="words"><?php adjective (); ?></span> sauce, <span class="words"><?php adjective (); ?></span> cheese, and fresh chopped <span class="words"><?php pluralnoun (); ?></span>. Next you have to bake it in a very hot <span class="words"><?php noun (); ?></span>. When it is done, cut it into <span class="words"><?php number (); ?></span> <span class="words"><?php shapes (); ?></span>. Some kids like <span class="words"><?php food (); ?></span> pizza the best, but my favorite is the <span class="words"><?php food (); ?></span> pizza. If I could, I would eat pizza <span class="words"><?php number (); ?></span> times a day!</p>
 
 
 </body>
