@@ -50,6 +50,7 @@
 <html>
 <head>
 	<title>Mad Libs</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
@@ -78,7 +79,7 @@
 	</form>
 
 
-	<p>Pizza was invented by a <?php adjective (); ?>, <?php nationality (); ?> chef named <?php person (); ?>. To make a pizza, you need to take a lump of <?php noun (); ?>, and make a thin, round <?php adjective (); ?> <?php noun (); ?>. Then you cover it with <?php adjective (); ?> sauce, <?php adjective (); ?> cheese, and fresh chopped <?php pluralnoun (); ?>. Next you have to bake it in a very hot <?php noun (); ?>. When it is done, cut it into <?php number (); ?> <?php shapes (); ?>. Some kids like <?php food (); ?> pizza the best, but my favorite is the <?php food (); ?> pizza. If I could, I would eat pizza <?php number (); ?> times a day!</p>
+	<p>Pizza was invented by a <span class="words"><?php adjective (); ?></span>, <?php nationality (); ?> chef named <?php person (); ?>. To make a pizza, you need to take a lump of <?php noun (); ?>, and make a thin, round <?php adjective (); ?> <?php noun (); ?>. Then you cover it with <?php adjective (); ?> sauce, <?php adjective (); ?> cheese, and fresh chopped <?php pluralnoun (); ?>. Next you have to bake it in a very hot <?php noun (); ?>. When it is done, cut it into <?php number (); ?> <?php shapes (); ?>. Some kids like <?php food (); ?> pizza the best, but my favorite is the <?php food (); ?> pizza. If I could, I would eat pizza <?php number (); ?> times a day!</p>
 
 
 </body>
