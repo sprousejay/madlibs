@@ -1,4 +1,12 @@
-<?php
+<?php  
+
+	$file = "myfile.txt";
+	$handle = fopen($file, 'a');
+	foreach ($_GET as $key => $value) {
+		fwrite($handle, $key . ":" . $value . "\n");
+	}
+	fclose($handle); 
+
 
 	function adjective () {
 		$adjective = $_GET["adjective"];
